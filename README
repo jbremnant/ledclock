@@ -1,0 +1,10 @@
+Author: jbremnant, Dec 2011
+Description:
+  LED clock originally created without bluetooth:
+    http://jbremnant.wordpress.com/2010/11/18/my-first-complete-avr-project/ 
+
+  Upgraded with HC-06 bluetooth module, which enables sending text message
+  and time update via bluetooth from Android phone or from PC.
+
+  For more details:
+    http://jbremnant.wordpress.com
